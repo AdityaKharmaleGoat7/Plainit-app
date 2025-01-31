@@ -1,6 +1,6 @@
-# Meet
+# Planit
 
-Meet is a Flutter application designed to help users schedule and manage meetings. The app integrates with Google Meet to create meeting links and provides various features such as note-taking, voice assistance, and more.
+Planit is a Flutter application designed to help users schedule and manage meetings. The app integrates with Google Meet to create meeting links and provides various features such as note-taking, voice assistance, and more.
 
 ## Features
 
